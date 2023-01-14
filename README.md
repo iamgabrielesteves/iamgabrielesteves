@@ -4,8 +4,8 @@
 </br>Senior Developer Consultant at <a href="https://www.me.com.br/">Mercado Eletrônico</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: gabrielesteves](https://img.shields.io/badge/-gabrielesteves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielesteveslima/)](https://www.linkedin.com/in/gabrielesteveslima/)
-[![GitHub Gabe](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/gabrielesteveslima)
+[![Linkedin: gabrielesteveslima](https://img.shields.io/badge/-gabrielesteveslima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielesteveslima/)](https://www.linkedin.com/in/gabrielesteveslima/)
+[![GitHub gabrielesteveslima](https://img.shields.io/github/followers/gabrielesteveslima?label=follow&style=social)]([https://github.com/gabrielesteveslima](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fgabrielesteveslima))
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
