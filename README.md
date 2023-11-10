@@ -1,7 +1,7 @@
 <h2> Hi, I'm Gabriel!👋</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Pará</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>Senior Developer Consultant at <a href="https://www.me.com.br/">Mercado Eletrônico</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</br>Senior Developer Consultant at <a href="https://www.b3.com.br/">B3</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: gabrielesteveslima](https://img.shields.io/badge/-gabrielesteveslima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielesteveslima/)](https://www.linkedin.com/in/gabrielesteveslima/)
