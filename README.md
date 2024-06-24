@@ -5,7 +5,7 @@
 </em></p>
 
 [![Linkedin: gabrielesteveslima](https://img.shields.io/badge/-gabrielesteveslima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamgabrielesteves/)](https://www.linkedin.com/in/iamgabrielesteves/)
-[![GitHub gabrielesteveslima](https://img.shields.io/github/followers/gabrielesteveslima?label=follow&style=social)](https://github.com/gabrielesteveslima)
+[![GitHub gabrielesteveslima](https://img.shields.io/github/followers/gabrielesteveslima?label=follow&style=social)](https://github.com/iamgabrielesteves)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
