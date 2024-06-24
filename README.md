@@ -4,7 +4,7 @@
 </br>Senior Developer Consultant at <a href="https://www.b3.com.br/">B3</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: gabrielesteveslima](https://img.shields.io/badge/-gabrielesteveslima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamgabrielesteveslima/)](https://www.linkedin.com/in/gabrielesteveslima/)
+[![Linkedin: gabrielesteveslima](https://img.shields.io/badge/-gabrielesteveslima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamgabrielesteves/)](https://www.linkedin.com/in/iamgabrielesteves/)
 [![GitHub gabrielesteveslima](https://img.shields.io/github/followers/gabrielesteveslima?label=follow&style=social)](https://github.com/gabrielesteveslima)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
