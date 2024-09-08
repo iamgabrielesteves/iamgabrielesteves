@@ -1,6 +1,6 @@
 <h2> Hi, I'm Gabriel!👋</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Pará</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Enginner at <a href="http://www.ifc.edu.br">Instituto Federal Catarinense</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>Senior Developer Consultant at <a href="https://www.ambev.com.br/">AMBEV SA</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
