@@ -1,7 +1,6 @@
 <h2> Hi, I'm Gabriel!👋</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.ifc.edu.br">Instituto Federal Catarinense</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>Senior Developer Consultant at <a href="https://www.ambev.com.br/">AMBEV SA</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: gabrielesteveslima](https://img.shields.io/badge/-gabrielesteveslima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamgabrielesteves/)](https://www.linkedin.com/in/iamgabrielesteves/)
